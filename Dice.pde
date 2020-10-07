@@ -7,7 +7,7 @@ void setup()
 }
 void draw()
 {
-         clear();
+        
   int sum = 0;
   for( int a = 15; a <300; a += 60){
       for( int b = 20; b < 260 ; b += 60){
